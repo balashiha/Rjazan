@@ -991,9 +991,6 @@ h6,
 #header2-33 .mbr-section-title {
   font-size: 36px;
 }
-#extTestimonials5-14 .mbr-section-title {
-  font-size: 24px;
-}
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
@@ -1055,49 +1052,6 @@ h6,
 }
 #msg-box5-2w P {
   text-align: left;
-}
-#extShop1-b .galleryItem h4:hover {
-  color: #c0a375;
-}
-#extShop1-b .mbr-gallery-filter ul li.active {
-  color: #c0a375;
-}
-#extShop1-b .mbr-gallery-filter ul li:hover {
-  color: #c0a375;
-}
-#extShop1-b .mbr-gallery-filter ul li:before {
-  background: #c0a375;
-}
-#extShop1-b .min-toggle:hover,
-#extShop1-b .max-toggle:hover {
-  background-color: #c0a375;
-}
-#extShop1-b .shop-title {
-  font-family: Montserrat;
-}
-#extShop1-b .categories-titles .mbr-gallery-filter ul li {
-  font-family: Montserrat;
-}
-#extShop1-b .max-input {
-  font-family: Montserrat;
-}
-#extShop1-b .min-input {
-  font-family: Montserrat;
-}
-#extShop1-b .item-title {
-  font-family: Montserrat;
-  font-size: 24px;
-}
-#extShop1-b .item-subtitle {
-  font-family: Lora;
-  color: #2969b0;
-}
-#extShop1-b .card-description {
-  font-family: Raleway;
-}
-#extShop1-b .shop-item-price {
-  font-family: Montserrat;
-  font-size: 24px;
 }
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
@@ -1383,24 +1337,4 @@ h6,
 }
 #header3-2f H3 {
   font-size: 24px;
-}
-#header3-2h .mbr-section-title,
-#header3-2h .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2h H3 {
-  font-size: 24px;
-  color: #000000;
-}
-#extTestimonials5-2i .mbr-section-title {
-  font-size: 32px;
-}
-#extFeatures10-2l .etl-icon {
-  color: #333333;
-}
-#extFeatures10-2l P {
-  color: #000000;
-}
-#extFeatures10-2l .mbr-section-title {
-  font-size: 32px;
 }
